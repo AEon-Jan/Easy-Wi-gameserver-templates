@@ -21,10 +21,12 @@
   <gameq/>
   <gamemod>N</gamemod>
   <gamemod2/>
-  <configs>servertest.ini full&#13;
-servertest_SandboxVars.lua&#13;
-servertest_spawnpoints.lua&#13;
-servertest_spawnregions.lua</configs>
+  <configs>ProjectZomboid64.json full&#13;
+../../Zomboid/Server/servertest.ini full&#13;
+../../Zomboid/Server/servertest_SandboxVars.lua full&#13;
+../../Zomboid/Server/servertest_spawnpoints.lua full&#13;
+../../Zomboid/Server/servertest_spawnregions.lua full&#13;
+</configs>
   <configedit/>
   <iptables/>
   <protectedSaveCFGs/>
