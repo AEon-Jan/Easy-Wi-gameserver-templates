@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<image>
+  <steamgame>S</steamgame>
+  <appID>380870</appID>
+  <serverID>380870</serverID>
+  <updates>1</updates>
+  <shorten>prjzomb</shorten>
+  <description>Project Zomboid</description>
+  <type>gserver</type>
+  <gamebinary>ProjectZomboid64</gamebinary>
+  <gamebinaryWin/>
+  <binarydir/>
+  <modfolder/>
+  <fps/>
+  <slots>0</slots>
+  <map/>
+  <mapGroup/>
+  <cmd>bash start-server.sh</cmd>
+  <modcmds/>
+  <tic/>
+  <gameq/>
+  <gamemod>N</gamemod>
+  <gamemod2/>
+  <configs>servertest.ini full&#13;
+servertest_SandboxVars.lua&#13;
+servertest_spawnpoints.lua&#13;
+servertest_spawnregions.lua</configs>
+  <configedit/>
+  <iptables/>
+  <protectedSaveCFGs/>
+  <portStep>100</portStep>
+  <portMax>1</portMax>
+  <portOne>16261</portOne>
+  <portTwo/>
+  <portThree/>
+  <portFour/>
+  <portFive/>
+  <useQueryPort>1</useQueryPort>
+  <protected>N</protected>
+  <ramLimited>N</ramLimited>
+  <ftpAccess>Y</ftpAccess>
+  <workShop>Y</workShop>
+  <copyStartBinary>N</copyStartBinary>
+  <os>L</os>
+  <liveConsole>Y</liveConsole>
+  <steamGameserverToken>N</steamGameserverToken>
+</image>
